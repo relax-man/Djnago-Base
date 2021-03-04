@@ -1,5 +1,5 @@
 # VsCode
-.vscode/
+# .vscode/
 
 # Python files
 __pycache__/
@@ -11,4 +11,8 @@ env/
 src/db.sqlite3
 
 # Local settings
-src/settings/local.py
+# src/settings/local.py
+
+# Static and media files
+src/staticfiles/
+src/media/
